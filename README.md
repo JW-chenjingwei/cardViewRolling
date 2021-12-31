@@ -1,2 +1,3 @@
 # cardViewRolling
 卡片滚动demo
+通过自定义view实现卡片左右滚动demo
